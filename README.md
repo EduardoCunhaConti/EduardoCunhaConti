@@ -16,7 +16,6 @@ Tenho maior domínio prático em **Engenharia e Análise de Dados, além de Dese
 - **[Challenge-Alura-TelecomX](https://github.com/EduardoCunhaConti/Challenge-Alura-TelecomX)** — Análise de churn de clientes em Jupyter Notebook.
 - **[Challenge-Alura-TelecomX-Parte-2](https://github.com/EduardoCunhaConti/Challenge-Alura-TelecomX-Parte-2)** — Continuação da análise de churn, com modelagem preditiva.
 - **[LocalStream](https://github.com/EduardoCunhaConti/LocalStream)** — Projeto em Python.
-- **[Meu_Study_Hub_TI](https://github.com/EduardoCunhaConti/Meu_Study_Hub_TI)** — Repositório central que organiza minha produção acadêmica e serve como portfólio profissional.
 
 ## 📫 Contato
 
