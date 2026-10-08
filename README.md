@@ -12,7 +12,7 @@ Tenho maior domínio prático em **Engenharia e Análise de Dados, além de Dese
 
 ## 📂 Projetos em destaque
 
-- **[PortfolioHub](https://github.com/EduardoCunhaConti/PortfolioHub)** — repositório central com todos os projetos, documentados e versionados.
+- **[PortfolioHub]([https://github.com/EduardoCunhaConti/PortfolioHub](https://eduardocunhaconti.github.io/PortfolioHub/))** — repositório central com todos os projetos, documentados e versionados.
 - **[Ecommerce-Data-Analysis](https://github.com/EduardoCunhaConti/Ecommerce-Data-Analysis)** — Projeto da disciplina de Ciência de Dados: ETL, KPIs, visualizações e modelos de Machine Learning sobre datasets de e-commerce (Amazon Sales e Olist).
 - **[Challenge-Alura-Store](https://github.com/EduardoCunhaConti/Challenge-Alura-Store)** — Análise de dados de vendas em Jupyter Notebook.
 - **[Challenge-Alura-TelecomX](https://github.com/EduardoCunhaConti/Challenge-Alura-TelecomX)** — Análise de churn de clientes em Jupyter Notebook.
